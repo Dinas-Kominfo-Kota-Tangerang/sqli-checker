@@ -1,2 +1,2 @@
 # sqli-checker
-![Gambar1](/images/Screenshot from 2020-08-03 09-13-44.png)
+![Gambar1](https://github.com/Dinas-Kominfo-Kota-Tangerang/sqli-checker/blob/master/images/Screenshot%20from%202020-08-03%2009-13-44.png)
